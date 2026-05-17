@@ -4,7 +4,7 @@
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5-black.svg)](https://www.unrealengine.com/)
 [![School Project](https://img.shields.io/badge/Second%20Year-Collaboration-purple.svg)]()
 
-![Game Screenshot](documents/screenshots/gameplay1.png)
+![Game Screenshot](screenshot.png)
 
 ## Table of Contents
 - [About The Project](#about-the-project)
