@@ -13,8 +13,6 @@
 - [Built With](#built-with)
 - [Getting Started](#getting-started)
 - [Controls](#controls)
-- [Team & Collaboration](#team--collaboration)
-- [Screenshots](#screenshots)
 
 ## About The Project
 
@@ -149,3 +147,12 @@ cd morbid-growth
 double-click MorbidGrowth.sln
 
 # Build in Visual Studio (F5)
+```
+
+## Controls
+
+| Action | Input |
+|--------|-------|
+| **Move** | `W` `A` `S` `D` |
+| **Fire Flamethrower** | `Left Mouse Button` |
+| **Look Around** | Mouse |
